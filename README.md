@@ -1,5 +1,5 @@
 # Researcher-Information-System
-To mitigate the risk of future students using my work, these code files are stored in a password protected .zip file.
+To mitigate the risk of future students copying my work, these code files are stored in a password protected .zip file.
 The password for all files is my surname (all lowercase letters). 
 To easily view all files, extract all of them and enter the password as required.
 
